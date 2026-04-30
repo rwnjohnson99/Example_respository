@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from local computer- Rowena
+=======
+Edited:from GitHub------------Hello!
+>>>>>>> e8bd569bb22489967d1defd7e2065367b821956b
